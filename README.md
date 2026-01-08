@@ -12,6 +12,10 @@ Hands-on Linux operational labs demonstrating real-world production support task
 - scripts/   → Operational scripts
 - incidents/ → Incident reports & RCA documents
 
+## Scripts
+- disk_usage_check.sh – Monitors disk usage and alerts if it exceeds threshold
+- cpu_memory_check.sh – Monitors CPU load and memory usage, raises alerts if memory exceeds threshold
+
 ## Tools Used
 - Linux (Ubuntu / RHEL)
 - Bash
